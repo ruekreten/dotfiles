@@ -1,0 +1,20 @@
+{
+  "plugins": {
+    "mason-lspconfig.nvim": {
+      "rev": "d7b5feb6e769e995f7fcf44d92f49f811c51d10c",
+      "src": "https://github.com/mason-org/mason-lspconfig.nvim"
+    },
+    "mason-tool-installer.nvim": {
+      "rev": "517ef5994ef9d6b738322664d5fdd948f0fdeb46",
+      "src": "https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim"
+    },
+    "mason.nvim": {
+      "rev": "ad7146aa61dcaeb54fa900144d768f040090bff0",
+      "src": "https://github.com/mason-org/mason.nvim"
+    },
+    "nvim-lspconfig": {
+      "rev": "a89bfcfd0e44f898341ac8a80ba83ccf6218bef3",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+alias ls='eza -a --icons=always'
+alias ll='eza -al --icons=always'
+alias lt='eza -a --tree --level=1 --icons=always'
+alias poweroff='doas /usr/bin/poweroff'
+alias reboot='doas /usr/bin/reboot'
+alias predict='doas /usr/bin/emlop predict'
+alias fuck='doas /usr/bin/setfacl -m u:rue:rw'

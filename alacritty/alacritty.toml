@@ -1,0 +1,12 @@
+[general]
+import = ["~/.config/alacritty/colors.toml"]
+
+[window]
+#opacity = 0.9
+
+[scrolling]
+history = 20000
+
+[font]
+normal = { family = "Maple Mono NF" }
+size = 10
