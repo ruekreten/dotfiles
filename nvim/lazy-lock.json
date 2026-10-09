@@ -23,5 +23,5 @@
   "snacks.nvim": { "branch": "main", "commit": "882c996cf28183f4d63640de0b4c02ec886d01f2" },
   "sqlite.lua": { "branch": "master", "commit": "50092d60feb242602d7578398c6eb53b4a8ffe7b" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" },
-  "yanky.nvim": { "branch": "main", "commit": "b50e7b57b9a2296dc4393e024eb0b8235b41c641" }
+  "yanky.nvim": { "branch": "main", "commit": "adcabd8512bead30184916fa9277e73c021ef099" }
 }
