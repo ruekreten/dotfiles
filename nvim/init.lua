@@ -22,4 +22,4 @@ vim.pack.add({
 
 require("config.lazy")
 
-vim.cmd([[colorscheme dracula]])
+vim.cmd([[colorscheme gruvbox]])

@@ -1,8 +1,9 @@
 [general]
-import = ["~/.config/alacritty/colors.toml"]
+import = ["~/.config/alacritty/gruvbox_dark.toml"]
 
 [window]
 #opacity = 0.9
+padding = { x = 3, y = 3 }
 
 [scrolling]
 history = 20000
