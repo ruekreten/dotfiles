@@ -27,7 +27,7 @@ return {
 					},
 					["clang-format"] = {
 						command = "clang-format",
-						prepend_args = { "--style=webkit" },
+						prepend_args = { "-style={BasedOnStyle: LLVM, IndentWidth: 4}" },
 					},
 				},
 				format_on_save = {

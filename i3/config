@@ -4,8 +4,6 @@ font pango:Maple Mono NF 10
 
 default_border pixel 2
 default_floating_border pixel 2
-gaps inner 10px
-gaps top 29px
 
 # Class                 border  bg      text    ind     child_border
 client.focused          #d79921 #282828 #ebdbb2 #d79921 #d79921
@@ -107,3 +105,6 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5
 
 bindsym $mod+Ctrl+space exec "xkb-switch --next"
+
+bindsym Print exec maim ~/Pictures/$(date +%d-%M-%yT%T).png
+bindsym $mod+Print exec maim -s ~/Pictures/$(date +%d-%M-%yT%T).png
