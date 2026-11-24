@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/gruvbox_dark.toml"]
+import = ["~/.config/alacritty/themes/noctalia.toml"]
 
 [window]
 #opacity = 0.9
